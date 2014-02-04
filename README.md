@@ -12,3 +12,4 @@ Features I shall be including are:
 - semantic HTML5 document
 - CSS developed using Sass/Compass
 
+[![Code Climate](https://codeclimate.com/github/paul66/kronos.png)](https://codeclimate.com/github/paul66/kronos)
